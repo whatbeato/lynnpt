@@ -1,7 +1,7 @@
 ---
 title: "Welcome in!"
 description: "Welcome to my brand new website?"
-pubDate: "Demo Post"
+pubDate: "27 Oct 2024"
 heroImage: "/post_img.webp"
 badge: "NEW"
 tags: ["firstpost"]
