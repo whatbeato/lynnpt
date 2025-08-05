@@ -1,12 +1,14 @@
 ---
-title: "Welcome in!"
-description: "Welcome to my brand new website?"
+title: "hi, welcome!"
+description: "nice new little website"
 pubDate: "27 Oct 2024 (updated 04 Aug 2025)"
 heroImage: "/post_img.webp"
 badge: "NEW"
 tags: ["firstpost"]
 ---
 
-I have finally finished working on this. I just have this post here so I have the syntax needed to make more posts lol. Have a nice day!
+hi there! my name is fonz.
+just have this post up so i can have the stuff to post new things :)
 
-fonz beato
+signed,
+fonz
